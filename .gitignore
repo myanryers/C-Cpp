@@ -1,6 +1,9 @@
 # OS X
 .DS_Store
 
+# executable from building in Sublime Text 3
+main
+
 # Prerequisites
 *.d
 
